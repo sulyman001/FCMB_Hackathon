@@ -1,0 +1,26 @@
+.container h4, p{
+  color: #FFFFFF;
+}
+.container h5{
+  color: #FCB405;
+  font-family: Open Sans;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.container h4{
+  padding-top: 2rem;
+  font-family: Open Sans;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.container p{
+  width: 258px;
+  height: 144px;
+  flex-shrink: 0;
+}
